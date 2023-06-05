@@ -13,12 +13,11 @@ h2 {
   color: green;
   font-weight: normal;
   font-style: italic;
-
 }
 
 #tasks .completed {
   background: #ccc;
   text-decoration: underline;
 
-  
+
 }
